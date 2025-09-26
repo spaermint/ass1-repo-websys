@@ -1,0 +1,5 @@
+Python version ✔ 
+venv active ✔ 
+Django version ✔ 
+runserver working ✔ 
+Git remote set ✔ 

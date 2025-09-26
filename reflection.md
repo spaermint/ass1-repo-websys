@@ -1,0 +1,1 @@
+Yung mga naging challenges lang naman for me sir is kung pano isetup yung magiging workflow kasi iba siya sa mga ginamit kong framework dati, may similarities naman siya pero mas malaki yung pagkakaiba niya sa mga nagamit ko na dati.
